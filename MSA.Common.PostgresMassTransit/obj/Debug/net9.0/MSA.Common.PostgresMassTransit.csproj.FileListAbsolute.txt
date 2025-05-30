@@ -1,0 +1,17 @@
+/home/user/msa/MSA.Common.PostgresMassTransit/bin/Debug/net9.0/MSA.Common.PostgresMassTransit.deps.json
+/home/user/msa/MSA.Common.PostgresMassTransit/bin/Debug/net9.0/MSA.Common.PostgresMassTransit.runtimeconfig.json
+/home/user/msa/MSA.Common.PostgresMassTransit/bin/Debug/net9.0/MSA.Common.PostgresMassTransit.dll
+/home/user/msa/MSA.Common.PostgresMassTransit/bin/Debug/net9.0/MSA.Common.PostgresMassTransit.pdb
+/home/user/msa/MSA.Common.PostgresMassTransit/bin/Debug/net9.0/MSA.Common.Contracts.dll
+/home/user/msa/MSA.Common.PostgresMassTransit/bin/Debug/net9.0/MSA.Common.Contracts.pdb
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.csproj.AssemblyReference.cache
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.AssemblyInfoInputs.cache
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.AssemblyInfo.cs
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.csproj.CoreCompileInputs.cache
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Comm.C5F38FBC.Up2Date
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.dll
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/refint/MSA.Common.PostgresMassTransit.dll
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.pdb
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/MSA.Common.PostgresMassTransit.genruntimeconfig.cache
+/home/user/msa/MSA.Common.PostgresMassTransit/obj/Debug/net9.0/ref/MSA.Common.PostgresMassTransit.dll

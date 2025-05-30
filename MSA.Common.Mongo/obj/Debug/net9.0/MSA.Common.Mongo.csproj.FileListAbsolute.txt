@@ -1,0 +1,15 @@
+/home/user/msa/MSA.Common.Mongo/bin/Debug/net9.0/MSA.Common.Mongo.deps.json
+/home/user/msa/MSA.Common.Mongo/bin/Debug/net9.0/MSA.Common.Mongo.dll
+/home/user/msa/MSA.Common.Mongo/bin/Debug/net9.0/MSA.Common.Mongo.pdb
+/home/user/msa/MSA.Common.Mongo/bin/Debug/net9.0/MSA.Common.Contracts.dll
+/home/user/msa/MSA.Common.Mongo/bin/Debug/net9.0/MSA.Common.Contracts.pdb
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.csproj.AssemblyReference.cache
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.AssemblyInfoInputs.cache
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.AssemblyInfo.cs
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.csproj.CoreCompileInputs.cache
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Comm.6EFABD65.Up2Date
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.dll
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/refint/MSA.Common.Mongo.dll
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/MSA.Common.Mongo.pdb
+/home/user/msa/MSA.Common.Mongo/obj/Debug/net9.0/ref/MSA.Common.Mongo.dll

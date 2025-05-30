@@ -1,0 +1,15 @@
+/home/user/msa/MSA.Common.Security/bin/Debug/net9.0/MSA.Common.Security.deps.json
+/home/user/msa/MSA.Common.Security/bin/Debug/net9.0/MSA.Common.Security.dll
+/home/user/msa/MSA.Common.Security/bin/Debug/net9.0/MSA.Common.Security.pdb
+/home/user/msa/MSA.Common.Security/bin/Debug/net9.0/MSA.Common.Contracts.dll
+/home/user/msa/MSA.Common.Security/bin/Debug/net9.0/MSA.Common.Contracts.pdb
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.csproj.AssemblyReference.cache
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.AssemblyInfoInputs.cache
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.AssemblyInfo.cs
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.csproj.CoreCompileInputs.cache
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Comm.F723219D.Up2Date
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.dll
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/refint/MSA.Common.Security.dll
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/MSA.Common.Security.pdb
+/home/user/msa/MSA.Common.Security/obj/Debug/net9.0/ref/MSA.Common.Security.dll
